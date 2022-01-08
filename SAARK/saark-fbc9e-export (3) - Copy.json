@@ -1,0 +1,27 @@
+{
+  "AccountMaster": {
+    "10534": {
+      "Ahead": "TRAVELLING EXP",
+      "Aopt": "00",
+      "CompanyCode": "1001",
+      "Address": "",
+      "Station": "",
+      "Trans": {
+        "166": {
+          "Vdate": "01/04/2020",
+          "Vno": 166,
+          "Debit": 166.3,
+          "Vdesc": "Cash Paid"
+        },
+        "366": {
+          "Vdate": "02/04/2020",
+          "Vno": 366,
+          "Debit": 266.3,
+          "Vdesc": "Cash Paid"
+        }
+      },
+      "Zone": "",
+      "AcNo": ""
+    }
+  }
+}
